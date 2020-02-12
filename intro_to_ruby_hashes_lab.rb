@@ -5,7 +5,7 @@ def new_hash
 
 def my_hash
   hash1 = {artist: "Jean Michelle", city: "Brooklyn"}
-  :artist[city]
+  hash1[:city]
 end
 
 def pioneer
