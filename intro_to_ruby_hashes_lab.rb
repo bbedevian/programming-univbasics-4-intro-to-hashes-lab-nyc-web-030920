@@ -4,7 +4,7 @@ def new_hash
   end
 
 def my_hash
-  hash1 = {artist: "Jean Michelle", city: "Brooklyn"}
+  hash = {artist: "Jean Michelle", city: "Brooklyn"}
   hash1[:city]
 end
 
