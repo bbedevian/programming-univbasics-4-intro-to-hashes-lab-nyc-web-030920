@@ -15,15 +15,16 @@ end
 
 def id_generator
  hash1 = {id: 5}
-  
+ hash1  
 end
 
 def my_hash_creator(key, value)
-  # return a hash that includes the key and value parameters passed into this method
+  hash1 = {key: value}
+  hash1
 end
 
 def read_from_hash(hash, key)
-  # return the correct value using the hash and key parameters
+ hash[:key]
 end
 
 def update_counting_hash(hash, key)
