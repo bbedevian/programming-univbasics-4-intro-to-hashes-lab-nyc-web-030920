@@ -1,9 +1,11 @@
 def new_hash
-  # return an empty hash
-end
+  hash1 = {}
+  hash1
+  end
 
 def my_hash
-  # return a valid hash with any key/value pair of your choice
+  hash1 = {artist: "Jean Michelle", city: "Brooklyn"}
+  :artist[city]
 end
 
 def pioneer
