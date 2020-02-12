@@ -4,12 +4,13 @@ def new_hash
   end
 
 def my_hash
-  hash = {artist: "Jean Michelle", city: "Brooklyn"}
-  hash1[:city]
+  hash1 = {artist: "Jean Michelle", city: "Brooklyn"}
+  hash1
 end
 
 def pioneer
-  
+  pioneer = {name: "Grace Hopper"}
+  pioneer
 end
 
 def id_generator
